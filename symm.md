@@ -1,5 +1,3 @@
-Perfect 👍 Here’s a **clean Markdown version** of your document — you can copy this into any Markdown editor (like VS Code, Obsidian, Typora, or even online tools such as [dillinger.io](https://dillinger.io)) and **export it as a PDF**.
-
 ---
 
 # 🧩 Symmetric Encryption Algorithms Summary
@@ -90,6 +88,4 @@ Both parties must **already share** the key securely (for example, using DHE/ECD
 * NIST Announcement (2023) — *Retirement of 3DES (TDEA)*
 
 ---
-
-Would you like me to also include this Markdown as a downloadable `.md` file (so you can save it directly)?
 
