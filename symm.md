@@ -1,5 +1,3 @@
----
-
 # 🧩 Symmetric Encryption Algorithms Summary
 
 This document summarizes **symmetric encryption algorithms**, their **key sizes**, **security status**, and **known weaknesses**.
